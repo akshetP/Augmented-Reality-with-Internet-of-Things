@@ -221,8 +221,6 @@ Debug.Log("LED IS OFF");
 ```
 
 ### Schematic Diagram:
-<p align="center">
-<img src="Images/img2.jpg" alt="Schematic Diagram" width="300">
-</p>
+![Schematic Diagram](Images/img2.jpg)
 
-Also checkout my [Hackster.io project here!](https://www.hackster.io/Akshet_Patel/augmented-reality-with-internet-of-things-iot-5af4f7)
+## Also checkout my [Hackster.io project here!](https://www.hackster.io/Akshet_Patel/augmented-reality-with-internet-of-things-iot-5af4f7)
